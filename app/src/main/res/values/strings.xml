@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SolVro</string>
+    <string name="add_task">Dodaj zadanie</string>
+    <string name="delete_task">Usuń zadanie</string>
+    <string name="edit_task">Edytuj zadanie</string>
+    <string name="task_name">Nazwa zadania</string>
+    <string name="task_performer">Wykonawca zadania</string>
+    <string name="task_estimate">Estymata</string>
+    <string name="task_specialization">Specjalizacja zadania</string>
+    <string name="task_state">Status zadania</string>
+    <string name="error">Wystąpił błąd.</string>
+</resources>
